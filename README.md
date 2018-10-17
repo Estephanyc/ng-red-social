@@ -1,5 +1,7 @@
 # Red Social Good food
 
+![red-social](https://user-images.githubusercontent.com/38702172/47121157-f59cb900-d247-11e8-988b-bcbc4461cc31.jpg)
+
 # Introducción 
 Good food es una red social centrada en fomentar la alimentación saludable.
 
