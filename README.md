@@ -5,7 +5,7 @@
 ## Introducción 
 Good food es una red social centrada en fomentar la alimentación saludable.
 
-La red nos permite 
+El sitio nos permite 
 
 - Registrarse e iniciar sesión
 - Publicar entradas y ver entradas publicadas por otras personas
